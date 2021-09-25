@@ -20,7 +20,7 @@ To drop all existing data and then initialize database
 ```
 flask initdb --drop
 ```
-To generate a admin account
+To generate an admin account
 ```
 flask admin
 ```
